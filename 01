@@ -4,9 +4,10 @@ options space=20
 tabstave
   notation=true
   tablature=false
-  key=G time=4/4
+  key=G 
+  time=4/4
 
-  notes :q 4-5-6/3 10/4
+  notes :qd 4 :q5-6/3 10/4
   notes :8 t12p7/4 s5s3/4 :8 3s:16:5-7/5 :h p5/4
 
 :::
