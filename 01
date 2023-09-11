@@ -7,7 +7,7 @@ tabstave
   key=G 
   time=4/4
 
-  notes :qd 6/4 :q 5-6/3 10/4
+  notes :qd A :q 5-6/3 10/4
   notes :8 t12p7/4 s5s3/4 :8 3s:16:5-7/5 :h p5/4
 
 :::
